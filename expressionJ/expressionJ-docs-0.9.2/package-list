@@ -1,0 +1,6 @@
+org.da.expressionj
+org.da.expressionj.expr
+org.da.expressionj.expr.parser
+org.da.expressionj.functions
+org.da.expressionj.model
+org.da.expressionj.util
