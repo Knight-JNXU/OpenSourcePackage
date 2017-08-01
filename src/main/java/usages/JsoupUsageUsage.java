@@ -67,6 +67,7 @@ public class JsoupUsageUsage {
     public void getInnerHtmlValueByClassNameAngTagName() throws Exception{
         String fileStr = readFileJava8("D:/htmlContent.txt");
         Document document = Jsoup.parse(fileStr, "UTF-8");
+        // 获取 父节点class值为 description-text 的 h2 元素
         Elements elements = document.select(".description-text h2");
         logger.info(elements.text());
 
