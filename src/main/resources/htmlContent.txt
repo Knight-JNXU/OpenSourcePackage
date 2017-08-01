@@ -1,0 +1,138 @@
+<div class="pdp-article"> 
+ <div class="product-description float-clearfix"> 
+  <div class="description-img">
+   <img src="2016/6/7/14652672553171190.jpg" />
+  </div> 
+  <div class="description-text"> 
+   <h2>产品描述</h2> 
+   <div class="text-a"> 
+    <div>
+     <img src="2016/6/20/14664223393255842.jpg" /> 
+     <span>亲肤面料</span>
+    </div> 
+    <p>贴合女性身体曲线，提升泳速畅游无阻；材质：100%涤纶。</p> 
+   </div> 
+   <div class="text-a"> 
+    <div>
+     <img src="2016/6/20/14664223393255842.jpg" /> 
+     <span>流线形腰线</span>
+    </div> 
+    <p>灵感源于鲨鱼皮，塑造流线型线条，改善泳姿，</p> 
+    <p>并保持身体在运动时的稳定。</p> 
+   </div> 
+   <div class="text-a"> 
+    <div>
+     <img src="2016/6/20/14664223393255842.jpg" /> 
+     <span>内衬胸托</span>
+    </div> 
+    <p>360度胸部完美支撑，有效稳固胸型，减少水下阻力。</p> 
+   </div> 
+   <div class="text-a"> 
+    <div>
+     <img src="2016/6/20/14664223393255842.jpg" /> 
+     <span>X型背带</span>
+    </div> 
+    <p>交叉背型，提升泳姿灵活度，摆臂自信出众。</p> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+<hr class="hr-line" /> 
+<div class="size-img">
+ <img alt="" src="2017/5/26/14957826899116481.jpg" style="width: 100%;" />
+</div> 
+<div class="article-product"> 
+ <h2 class="h2style">产品细节展示</h2> 
+ <div class="product-list-text"> 
+  <ul> 
+   <li class="clearfix"> 
+    <div class="lit-imgs">
+     <img src="2016/6/7/14652672717939811.jpg" />
+    </div> <p class="tle">胸垫</p> <p>一体胸垫配合底部加宽网布支撑条，为游泳时提供更多支撑</p> </li> 
+   <li class="clearfix"> 
+    <div class="lit-imgs">
+     <img src="2016/6/7/14652672829105699.jpg" />
+    </div> <p class="tle">背带设计</p> <p>交叉宽肩带设计，既保证运动自如，又提供足够支撑</p> </li> 
+   <li class="clearfix"> 
+    <div class="lit-imgs">
+     <img src="2016/6/7/14652672951422179.jpg" />
+    </div> <p class="tle">面料</p> <p>Endurance 10 面料，快干，手感额外柔软，颜色持久如新</p> </li> 
+   <li class="clearfix"> 
+    <div class="lit-imgs">
+     <img src="2016/6/7/1465267307637331.jpg" />
+    </div> <p class="tle">卫生</p> <p>安全内衬，使用贴心双层 面料，呵护你的健康</p> </li> 
+  </ul> 
+ </div> 
+</div> 
+<div class="pdp-article"> 
+ <div class="show-commodity"> 
+  <ul class="clearfix"> 
+   <li> <p>黑色正面效果</p> 
+    <div class="icons-show">
+     <i class="fa fa-caret-down"></i>
+    </div> 
+    <div class="show-imgs">
+     <img src="2016/6/7/1465267321727214.jpg" />
+    </div> </li> 
+   <li> <p>黑色背面效果</p> 
+    <div class="icons-show">
+     <i class="fa fa-caret-down"></i>
+    </div> 
+    <div class="show-imgs">
+     <img src="2016/6/7/14652673316582303.jpg" />
+    </div> </li> 
+   <li> <p>蓝绿色正面效果</p> 
+    <div class="icons-show">
+     <i class="fa fa-caret-down"></i>
+    </div> 
+    <div class="show-imgs">
+     <img src="2016/6/10/14655308741018981.jpg" />
+    </div> </li> 
+   <li> <p>蓝绿色背面效果</p> 
+    <div class="icons-show">
+     <i class="fa fa-caret-down"></i>
+    </div> 
+    <div class="show-imgs">
+     <img src="2016/6/10/1465530910920757.jpg" />
+    </div> </li> 
+   <li> <p>紫色正面效果</p> 
+    <div class="icons-show">
+     <i class="fa fa-caret-down"></i>
+    </div> 
+    <div class="show-imgs">
+     <img src="2016/6/10/14655309443616892.jpg" />
+    </div> </li> 
+   <li> <p>紫色背面效果</p> 
+    <div class="icons-show">
+     <i class="fa fa-caret-down"></i>
+    </div> 
+    <div class="show-imgs">
+     <img src="2016/6/10/14655309812653011.jpg" />
+    </div> </li> 
+  </ul> 
+ </div> 
+</div> 
+<div class="pdp-article"> 
+ <div class="show-commodity"> 
+  <ul class="clearfix"> 
+   <li> <p>蓝黑色正面效果</p> 
+    <div class="icons-show">
+     <i class="fa fa-caret-down"></i>
+    </div> 
+    <div class="show-imgs">
+     <img src="2016/6/24/14667319685466290.jpg" style="width: 238px; height: 358px;" />
+    </div> </li> 
+   <li> <p><span style="line-height: 20.8px;">蓝</span>黑色背面效果</p> 
+    <div class="icons-show">
+     <i class="fa fa-caret-down"></i>
+    </div> 
+    <div class="show-imgs">
+     <img src="2016/6/24/14667319828988826.jpg" style="width: 238px; height: 358px;" />
+     <br /> &nbsp;
+    </div> </li> 
+  </ul> 
+  <div class="center-img">
+   <img alt="" src="2017/5/26/14957828351132008.jpg" style="width: 100%;" />
+  </div> 
+ </div> 
+</div>

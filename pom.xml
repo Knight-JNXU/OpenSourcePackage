@@ -7,9 +7,12 @@
 
 	<properties>
 		<version.jsoup>1.7.3</version.jsoup>
+		<version.junit>4.12</version.junit>
+		<version.log>1.7.25</version.log>
 	</properties>
 
 	<dependencies>
+
 		<dependency>
 			<groupId>org.jsoup</groupId>
 			<artifactId>jsoup</artifactId>
@@ -19,13 +22,28 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>${version.junit}</version>
 		</dependency>
 		
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.25</version>
+			<version>${version.log}</version>
 		</dependency>
+
 	</dependencies>
+
+	<build>
+		<plugins>
+		   <plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+			  	<artifactId>maven-compiler-plugin</artifactId>
+			   	<configuration>
+				  	<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+	   </plugins>
+	</build>
+
 </project>
